@@ -16,7 +16,7 @@ class Builder extends ContainerAware
             'route' => 'page_show',
             'routeParameters' => array('id' => 42)
         ));
-        // ... add more children
+        // ... add more children 
 
         return $menu;
     }
